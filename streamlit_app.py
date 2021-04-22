@@ -61,9 +61,6 @@ st.plotly_chart(fig)
 
 st.header('**barcharchart**')
 st.write('**Close and Volume**')
-
-st.header('**linechart**')
-st.write('**Close and Volume**')
 st.bar_chart(tickerDf.Close)
 st.bar_chart(tickerDf.Volume)
 
