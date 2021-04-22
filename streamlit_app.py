@@ -3,7 +3,7 @@ import yfinance as yf
 import pandas as pd
 import cufflinks as cf
 import datetime
-import matplotlib.pyplot as plt
+st.beta_set_page_config(page_title='Hello.io',page_icon=":smiley:")
 
 
 
