@@ -3,8 +3,8 @@ import yfinance as yf
 import pandas as pd
 import cufflinks as cf
 import datetime
-st.beta_set_page_config(page_title='Stockapp',page_icon="🗠")
-
+st.beta_set_page_config(page_title='Stockapp')
+st.beta_set_favicon(st.image("📈")
 
 
 # App title
