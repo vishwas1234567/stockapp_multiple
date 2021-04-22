@@ -32,7 +32,7 @@ st.markdown(string_logo, unsafe_allow_html=True)
 string_name = tickerData.info['longName']
 st.header('**%s**' % string_name)
 
-string_summary = tickerData.info['longBusinessSummary']
+string_summary = tickerData.info['segments']
 st.info(string_summary)
 
 # Ticker data
