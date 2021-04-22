@@ -5,7 +5,7 @@ import cufflinks as cf
 import datetime
 
 
-
+st.set_page_config(page_title='Stockapp',page_icon = "📈")
 
 # App title
 st.markdown('''
