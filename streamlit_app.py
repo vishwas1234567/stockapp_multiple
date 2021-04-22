@@ -69,5 +69,5 @@ st.write('**Close and Volume**')
 st.area_chart(tickerDf.Close)
 st.area_chart(tickerDf.Volume)
 st.header('**Map for the world**')
-st.map(tickerData.info['head_quartersl')
+st.map(tickerData.info['head_quarters'])
 
