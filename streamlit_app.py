@@ -13,7 +13,7 @@ st.markdown('''
 Shown are the stock price data for query companies!
 
 ''')
-st.write('---')
+st.write('----------------------------------------------------------------------')
 
 # Sidebar
 st.sidebar.subheader('Query parameters')
